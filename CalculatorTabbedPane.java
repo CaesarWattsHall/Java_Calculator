@@ -1,4 +1,4 @@
-package lab3_jtabbedpane;
+package jtabbedpane;
 
 import javax.swing.*;
 import java.awt.*;
